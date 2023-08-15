@@ -46,6 +46,6 @@ Total    & 13.6\%  & 55.7\%    &  6.2\%    & 24.7\%    & \textbf{17.5\%}    & \t
 \hline
 \end{tabular}
 }
-$$
 \end{threeparttable}
 \end{table}
+$$
